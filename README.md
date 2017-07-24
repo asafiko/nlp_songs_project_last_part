@@ -969,7 +969,7 @@ plot_confusion_matrix(conf_mat, labels)
 ```
 
 
-![png](iamges/output_46_0.png)
+![png](images/output_46_0.png)
 
 
 We can see that all songs were classified correctly, which means that our RandomForest model from the last part indeed had high level of accuracy, and our RNN models successfully learned the artists songs and generated songs the look exactly like their original songs, from the machine's point of view - which is what we tried to achieve.
